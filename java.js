@@ -1,1 +1,2 @@
-document.getElementsByClassName("searchField")[0].value;
+{const input = document.getElementById('<Txt>');
+console.log(input);}
